@@ -15,7 +15,7 @@ Power BI was chosen for its ability to create **interactive dashboards** that ma
 4. **Slicers:** Allow filtering by department and city.
 
 ### Files in This Folder
-- `Student_Dashboard.pbix` – The Power BI dashboard file (can be opened in Power BI Desktop).
-- `Dashboard_Screenshot.png` – A screenshot preview of the dashboard.
+- `Student_powerbi visualization.pbix` – The Power BI dashboard file (can be opened in Power BI Desktop).
+- `Screenshot(59).png` – A screenshot preview of the dashboard.
 
 This dashboard provides **quick insights** into student demographics and performance, making it easy for decision-makers to understand the dataset.
