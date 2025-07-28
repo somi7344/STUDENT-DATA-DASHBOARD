@@ -1,4 +1,4 @@
-# Cleaned Student Dataset
+# powerbi Student Dataset
 
 This folder contains the **final cleaned dataset** (`student_cleaned.csv`) ready for analysis and visualization in Power BI.
 
