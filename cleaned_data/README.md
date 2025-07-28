@@ -1,6 +1,6 @@
 # powerbi Student Dataset
 
-This folder contains the **final cleaned dataset** (`student_cleaned.csv`) ready for analysis and visualization in Power BI.
+This folder contains the **final cleaned dataset** (`powerbi_cleaned.csv`) ready for analysis and visualization in Power BI.
 
 ### What Was Fixed During Cleaning
 1. **Removed duplicates:** Ensured each student has a unique `student_id`.
